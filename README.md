@@ -4,6 +4,8 @@ In this project, we tried to find a few indicators of heavy traffic on the I-94 
 - The traffic is usually heavier during warm months (March–October) compared to cold months (November–February).
 - The traffic is usually heavier on business days compared to the weekends.
 - On business days, the rush hours are around 7 and 16.
+
+
 **Weather indicators**
 - Shower snow
 - Light rain and snow
